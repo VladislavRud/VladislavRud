@@ -29,3 +29,7 @@ My skills
 </h2>
 
 <p dir="auto"><br><br></p>
+
+<div align="centre" dir='auto'>
+
+</div>
