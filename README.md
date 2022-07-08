@@ -31,5 +31,7 @@ My skills
 <p dir="auto"><br><br></p>
 
 <div align="centre" dir='auto'>
-
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/98b1ccd26dea8388b4edb81ff70e96dad6e96bfef05304431597f1f0534b6bb0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&amp;logo=javascript" style="max-width: 100%;"></a>
+</p>
 </div>
