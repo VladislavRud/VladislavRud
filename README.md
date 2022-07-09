@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 
 <p align="center">I am a Frontend JavaScript developer.</p>
 
+<h2 align="center" dir="auto"><a id="user-content--reach-me-on" class="anchor" aria-hidden="true" href="#-reach-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Contact me</h2>
+
+<p align="center" dir="auto">
+  <a href="mailto:v.rudnitsky.dev@gmail.com"><img src="https://camo.githubusercontent.com/37b34038e5aac2a9f4e3d3d12ebee4e368e9a015a56a239053dbc971297b3b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&amp;logo=gmail" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+  <a href="ttp://t.me/vladislavRud" rel="nofollow"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" data-canonical-src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <h2 align="center" dir='auto'>
 <a id="user-content-my-skills" class="anchor" aria-hidden="true" href="#my-skills">
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
