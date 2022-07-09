@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center" dir="auto">
   <a href="mailto:v.rudnitsky.dev@gmail.com"><img src="https://camo.githubusercontent.com/37b34038e5aac2a9f4e3d3d12ebee4e368e9a015a56a239053dbc971297b3b28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c" data-canonical-src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&amp;logo=gmail" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
-  <a href="ttp://t.me/vladislavRud" rel="nofollow"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" data-canonical-src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>&nbsp;&nbsp;&nbsp;
+<a href="http://t.me/vladislavRud" rel="nofollow"><img src="https://camo.githubusercontent.com/73306202b5d479eec5a440b2061c3c7ab537ef603522d0ec467ada03be98ffe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" data-canonical-src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&amp;logo=telegram" style="max-width: 100%;"></a>
 </p>
 
 <h2 align="center" dir='auto'>
