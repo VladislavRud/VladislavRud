@@ -52,3 +52,27 @@ My skills
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2e8a2d3cadc631807b1c465aacf42318c3e12a635dd676820baec391a1ca166/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65736c696e742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d374337434541"><img src="https://camo.githubusercontent.com/d2e8a2d3cadc631807b1c465aacf42318c3e12a635dd676820baec391a1ca166/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65736c696e742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d374337434541" alt="Eslint" data-canonical-src="https://img.shields.io/badge/eslint-20232A?style=for-the-badge&amp;logo=eslint&amp;logoColor=7C7CEA" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e7893a665a86ca52051fb96e2cd211500307ff4f32e69885f145221a2a7a5afd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676974"><img src="https://camo.githubusercontent.com/e7893a665a86ca52051fb96e2cd211500307ff4f32e69885f145221a2a7a5afd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/git-20232A?style=for-the-badge&amp;logo=git" style="max-width: 100%;"></a>
 </div>
+
+<div align="center">
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavRud&show_icons=true&theme=chartreuse-dark&hide=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavRud&layout=compact&langs_count=10&theme=chartreuse-dark&?)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--  ![VladislavRud's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=denis991&theme=radical) -->
+   
+  ![VladislavRud's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavRud&theme=radical)
+   
+  <br> 
+   
+   ![VladislavRud's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VladislavRud&hide_border=true&theme=redical)
+</div>
+
+<div align="center">
+
+  <br>
+
+  ![](https://visitor-badge.glitch.me/badge?page_id=VladislavRud)
+  
+  <br>
+</div>
