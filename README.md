@@ -55,17 +55,17 @@ My skills
 
 <div align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavRud&show_icons=true&theme=chartreuse-dark&hide=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavRud&show_icons=true&theme=gotham&hide=dark)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavRud&layout=compact&langs_count=10&theme=chartreuse-dark&?)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavRud&layout=compact&langs_count=10&theme=gotham&?)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--  ![VladislavRud's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=denis991&theme=radical) -->
    
-  ![VladislavRud's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavRud&theme=radical)
+  ![VladislavRud's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavRud&theme=gotham)
    
   <br> 
    
-   ![VladislavRud's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VladislavRud&hide_border=true&theme=redical)
+   ![VladislavRud's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=VladislavRud&hide_border=true&theme=gotham)
 </div>
 
 <div align="center">
