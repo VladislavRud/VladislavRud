@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Vlad!</a> 
+<h1 align="center">Hi there, I'm Vlad! &#128075</a> 
 <br>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
 <h3 align="center">I am a Frontend JavaScript developer</h3>
 
